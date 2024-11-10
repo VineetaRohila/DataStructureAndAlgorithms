@@ -48,6 +48,7 @@ public class Solution {
         return pSum;
     } */
 
+    //TC : O(N) SC : O(1)
     public int PivotIndex(int[] nums) {
 
         int totalSum = nums.Sum();
